@@ -12,5 +12,4 @@ __**Chatgpt (and any other LLM) wasn't used in the project**__
 (2) open vscode <br>
 (3) run App.java <br>
 
-# Strings_lab
-# Strings_lab
+simple huh :)
