@@ -1,5 +1,6 @@
 ## Getting Started
-this project is part of the labs of the course cpcs 203 
+this project is part of the labs of the course cpcs 203  <br>
+the description: <br>
 (Unique product ID) Most of the inventory management systems (such as a retail store) maintain records for all
 available products, and for that, these systems require a unique ID for each product. This unique product ID is
 composed of various attributes, including product category, product code, supplier code, manufacturing year, and
