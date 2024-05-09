@@ -7,6 +7,10 @@ stock reference number.
 <br>
 __**Chatgpt (and any other LLM) wasn't used in the project**__ 
 
+## Learning objectives
+• Declare and manipulate data of the char data type. <br>
+• Write string processing program using String, StringBuilder, and StringBuffer objects
+
 ## How to use
 (1) clone this repository <br>
 (2) open vscode <br>
